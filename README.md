@@ -5,7 +5,7 @@
 - ⌨️ My Non- Techincal Skills - Communication Skills | Critical Thinking | Problem-Solving | Time Management | Teamwork | Storytelling |
 - 📫 How to reach me : E-Mail : "satyalekhyadsln@gmail.com"
 - 📫 My Linkedin :    " https://www.linkedin.com/in/satya-alekhya-devarakonda-301531264/ "              
-- 💕 Thank You 😍
+- 💕 Thank You 😍 
 <!---
 Satyalekhya/Satyalekhya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
