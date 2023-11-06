@@ -3,7 +3,7 @@
 - 🌱 I’m a Ambitious Data Analyst | Curious about what data has to speak  | what should we know | How should we know 
 - ⌨️ My Techincal Skils -  Python | Data Science | Tableau | SQL | Power BI | 
 - ⌨️ My Non- Techincal Skills - Communication Skills | Critical Thinking | Problem-Solving | Time Management | Teamwork | Storytelling |
-- 📫 How to reach me : E-Mail : "satyalekhyadsln@gmil.com"
+- 📫 How to reach me : E-Mail : "satyalekhyadsln@gmail.com"
 - 📫 My Linkedin :    " https://www.linkedin.com/in/satya-alekhya-devarakonda-301531264/ "              
 - 💕 Thank You 😍
 <!---
